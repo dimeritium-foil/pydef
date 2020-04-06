@@ -3,6 +3,7 @@ A simple CLI python script that queries the Oxford dictionary API for the defini
 
 **Dependencies:**
 * `python-requests`
+
   note: It's a dependency of `pip`, so you probably have it installed already.
 
 **TODO:**
