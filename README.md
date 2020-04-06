@@ -14,5 +14,6 @@ Note that you'll have to sign up for an API key to be able to use it.
 
 **TODO:**
 * Make an install script.
+* Add word pronounciation.
 * Add support for different APIs, like Merriam Webster's API for example.
 * Add support for rhymes using Datamuse's API.
