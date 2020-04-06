@@ -1,5 +1,10 @@
 # pydef
-A simple CLI python script that queries the Oxford dictionary API for the definition of a word.
+A simple CLI python script that queries the [Oxford dictionary API](https://developer.oxforddictionaries.com/) for the definition of a word.
+Note that you'll have to sign up for an API key to be able to use it.
+
+**Usage:**
+
+![example usage](example.png)
 
 **Dependencies:**
 * `python-requests`
