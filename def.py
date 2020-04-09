@@ -102,8 +102,9 @@ def print_defs(lexical_entry):
     for entry in senses:
 
         # print definition
-        definition = entry["definitions"][0]
-        print(green + "+" + endclr, definition)
+        if "definitions" in entry:
+            definition = entry["definitions"][0]
+            print(green + "+" + endclr, definition)
 
         # print examples
         if "examples" in entry:
